@@ -1,0 +1,9 @@
+---
+name: Cadenas de caracteres
+locale: es
+type: learning
+beta: false
+language: c
+id_format: "%05d"
+order: []
+private: false

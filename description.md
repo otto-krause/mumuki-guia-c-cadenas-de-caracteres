@@ -1,0 +1,1 @@
+Guía orientada al aprendizaje de las diferentes funciones de cadenas de caracteres.
