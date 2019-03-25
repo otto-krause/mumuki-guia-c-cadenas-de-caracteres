@@ -1,0 +1,1 @@
+Ahora que sabemos cadenas, podemos hacer programas más interesantes, hace un programa que permita ingresar nombre y nota para 15 alumnos y cuando termine el ingreso mostrar por pantalla el nombre del alumno que tuvo la mejor nota.
