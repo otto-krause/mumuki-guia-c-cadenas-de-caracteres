@@ -8,6 +8,7 @@ char cadena[20] = "Hola mundo";
 A tener en cuenta:
 
 * Es una cadena con espacio para 20 caracteres
+* No se pueden realizar operaciones entre cadenas (suma, resta, multiplicación, etc);
 * Se están utilizando 11 caracteres del total de la cadena, pero si los contas los caracteres de "Hola mundo" solo vas a ver 10
 * Lo anterior se debe a que todas las cadenas insertan un caracter especial para indicar el final de la línea, ese caracter suele mostrarse como \0
 
