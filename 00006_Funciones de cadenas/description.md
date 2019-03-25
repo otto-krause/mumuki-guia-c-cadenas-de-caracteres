@@ -42,7 +42,7 @@ int main ()
 }
 ```
 
-**STRCMP**
+**STRCAT**
 
 ``` c
 #include <stdio.h>
@@ -60,4 +60,14 @@ int main ()
 }
 ```
 
+Para toupper y tolower su funcionamiento es el más simple:
 
+``` c
+=> toupper('a')
+ム A
+
+=> tolower('B')
+ム b
+```
+
+No olvidar utilizar ctype.h para estas dos últimas
