@@ -1,0 +1,32 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La función getch no muestra en pantalla el caracter ingresado por teclado
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La función getch muestra en pantalla el caracter ingresado por teclado
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La función getchar no muestra en pantalla el caracter ingresado por teclado
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La función getchar muestra en pantalla el caracter ingresado por teclado
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Al mostrar el caracter con %d en el printf, se imprime su equivalente en
+    codigo ASCII
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Al mostrar el caracter con %d en el printf, se imprime su direccion de memoria
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Se debe utilizar la librería conio.h para poder usar getch y getchar
+  checked: true
+name: Getch y Getchar
