@@ -1,0 +1,1 @@
+Hacé un programa que ingrese dos cadenas y diga si son iguales.
