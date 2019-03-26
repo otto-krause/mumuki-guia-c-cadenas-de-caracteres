@@ -1,1 +1,1 @@
-Ingresá un string y mostralo al revés.
+Ingresá una cadena y mostrala al revés.
