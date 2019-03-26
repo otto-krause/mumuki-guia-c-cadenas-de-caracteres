@@ -1,0 +1,1 @@
+Tenés que usar getch.
